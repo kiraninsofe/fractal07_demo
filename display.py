@@ -3,7 +3,7 @@ res_list = [x^2 for x in list_1]
 print(res_list)
 
 list_2 = [101,202,303,404,505]
-sub_list = [x * 0.1 for x in list_2]
+sub_list2 = [x * 0.1 for x in list_2]
 print(sub_list2)
 
 print("----------List is Completed-------------")
